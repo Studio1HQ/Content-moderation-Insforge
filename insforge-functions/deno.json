@@ -1,0 +1,6 @@
+{
+  "imports": {
+    "@insforge/sdk": "npm:@insforge/sdk"
+  }
+}
+
